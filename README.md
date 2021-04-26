@@ -32,7 +32,7 @@ In additin, using PySpark DataFrames analyize the vine reviews to understand if 
 
 In order to anaylyze if there is any bias on rating from paid vine reviews. We looked at only those reviews which has received at least 20 votes from other rviewers or buyers and marked as helpful reviews.The analysis was focused on those reviews which were deemed helpful by at least 50% of votres/reviewers/buyers.
 
-The code used to do the analysis is [analysis notebook](Vine_Review_Analysis.ipynb)
+The code used to do the analysis is saved in [analysis notebook](Vine_Review_Analysis.ipynb)
 ## Results:
 
 Using views for grocery products which has received at least 20 total votes. We found following facts:
