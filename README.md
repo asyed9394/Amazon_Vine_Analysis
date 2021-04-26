@@ -46,9 +46,10 @@ See below screenshot from the data.
 
 ## Summary:
 
-Based on the result mentioned we can conlcude that paid reviews are not biased. This is also confirmed based on the number of paid reivews are far less compared to un paid reviews. 
+Based on the result mentioned aboe, we can conlcude that paid reviews are not biased. This is also confirmed based on the number of paid reivews are far less compared to un paid reviews. 
 
-However , we should further confirm this conclusion by:
-1. The sample size for unpaid is quite low,so we should either reduce the filter critera for total votes from 20 to a lower value like 10 or 5. In addition reduce the 50% helpful votes to a lower threshold like to 25%
+Additional analysis recoomendationsa are:
+1. The sample size for unpaid is quite low,so we should try re-running analysis after reducing the filter critera for total votes from 20 to a lower value like 10 or 5. In addition reduce the 50% helpful votes to a lower threshold like to 25%.
 2. We only use 5 start rating , however we can check if 4 star or higher rating would still give similar results.
-3. we can also use Pyspark machine learning to model the imapct on rating if review is paid.
+
+In additon to changing the critera for datsset, we can also use Pyspark machine learning to model the imapct on rating if review is paid.
