@@ -18,7 +18,7 @@ The objective is to determine if there is any bias toward favorable reviews from
 ![Amazon vine reivews data defintions](Images/Amazon_vine_reviews_data_definition.png)
 
 ### Software:
-1. Google Collab
+1. Google Collab (saved as Jupyter notebook)
 2. Spark version 3.1.1
 3. PySpark
 4. AWS postgress RDS
@@ -32,6 +32,7 @@ In additin, using PySpark DataFrames analyize the vine reviews to understand if 
 
 In order to anaylyze if there is any bias on rating from paid vine reviews. We looked at only those reviews which has received at least 20 votes from other rviewers or buyers and marked as helpful reviews.The analysis was focused on those reviews which were deemed helpful by at least 50% of votres/reviewers/buyers.
 
+The code used to do the analysis is [analysis notebook](Vine_Review_Analysis.ipynb)
 ## Results:
 
 Using views for grocery products which has received at least 20 total votes. We found following facts:
