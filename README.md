@@ -42,7 +42,7 @@ Using views for grocery products which has received at least 20 total votes. We 
 
 See below screenshot from the data.
 
-![Amazon Grocery Products reviews Summary](Images\Reviews_Summary.png)
+![Amazon Grocery Products reviews Summary](Images/Reviews_Summary.png)
 
 ## Summary:
 
