@@ -49,7 +49,7 @@ See below screenshot from the data.
 
 Based on the result mentioned aboe, we can conlcude that paid reviews are not biased. This is also confirmed based on the number of paid reivews are far less compared to un paid reviews. 
 
-Additional analysis recoomendationsa are:
+Additional analysis recoomendations are:
 1. The sample size for unpaid is quite low,so we should try re-running analysis after reducing the filter critera for total votes from 20 to a lower value like 10 or 5. In addition reduce the 50% helpful votes to a lower threshold like to 25%.
 2. We only use 5 start rating , however we can check if 4 star or higher rating would still give similar results.
 
